@@ -1,6 +1,6 @@
 let calc = require('./calc');
 let greetings = require('./greetings');
-let {generateRandomFact} = require('./generator');
+let {generateRandomFact, lookingForSolutions} = require('./generator');
 
 let a = 99;
 let b = 27;
